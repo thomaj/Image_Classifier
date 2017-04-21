@@ -5,4 +5,6 @@ Uses a Convolutional Neural Network to train a model to predict one of 15 differ
 ### Technologies
 TensorFlow
 
+---
+
 Done as part of a research project for CSE 5522 at The Ohio State University
